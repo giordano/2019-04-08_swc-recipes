@@ -1,2 +1,5 @@
-#ingredient
+#ingredients
+-avacado
+-salt
+-oil
 
