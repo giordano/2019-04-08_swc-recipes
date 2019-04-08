@@ -1,7 +1,7 @@
-#ingredients
--avacado
--salt
--lemon
--tomato
--ketchup
+# ingredients
 
+- avacado
+- salt
+- lemon
+- tomato
+- ketchup
